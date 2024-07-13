@@ -1,0 +1,15 @@
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\bin\Debug\net8.0\homework_1.exe
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\bin\Debug\net8.0\homework_1.deps.json
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\bin\Debug\net8.0\homework_1.runtimeconfig.json
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\bin\Debug\net8.0\homework_1.dll
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\bin\Debug\net8.0\homework_1.pdb
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.AssemblyInfoInputs.cache
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.AssemblyInfo.cs
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.sourcelink.json
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.dll
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\refint\homework_1.dll
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.pdb
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\homework_1.genruntimeconfig.cache
+D:\Visual Studio\Homeworks_repo\C_sharp_homeworks\homework_1\homework_1\obj\Debug\net8.0\ref\homework_1.dll
