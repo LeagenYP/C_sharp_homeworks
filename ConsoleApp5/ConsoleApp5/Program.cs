@@ -2,8 +2,8 @@
 {
     static void Main()
     {
-        int d = 123;
-        int s = 122;
+        int d = 13;
+        int s = 12;
 
         Console.WriteLine(d + s);
         Console.ReadKey();
