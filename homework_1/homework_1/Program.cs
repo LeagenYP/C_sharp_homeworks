@@ -3,7 +3,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello Skillboxxededeee!!!");
+        Console.WriteLine("Hello Skillboxxededee!!!");
 
         Console.Write("Hello ");
         Console.Write("Worlde");
