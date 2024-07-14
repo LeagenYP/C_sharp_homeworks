@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\Homeworks_repo\\C_sharp_homeworks\\homework_1\\homework_1\\homework_1.csproj",
+      "projectUniqueName": "D:\\Visual Studio\\C_sharp_repo\\C_sharp_homeworks\\homework_1\\homework_1\\homework_1.csproj",
       "projectName": "homework_1",
-      "projectPath": "D:\\Visual Studio\\Homeworks_repo\\C_sharp_homeworks\\homework_1\\homework_1\\homework_1.csproj",
+      "projectPath": "D:\\Visual Studio\\C_sharp_repo\\C_sharp_homeworks\\homework_1\\homework_1\\homework_1.csproj",
       "packagesPath": "C:\\Users\\comp\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\Homeworks_repo\\C_sharp_homeworks\\homework_1\\homework_1\\obj\\",
+      "outputPath": "D:\\Visual Studio\\C_sharp_repo\\C_sharp_homeworks\\homework_1\\homework_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"
