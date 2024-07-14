@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        int d = 7777;
+        int d = 777;
         int s = 1110;
 
         Console.WriteLine(d + s);
