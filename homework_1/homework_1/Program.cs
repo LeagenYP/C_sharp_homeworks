@@ -3,11 +3,11 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello Skillboxxededee!!!");
+        Console.WriteLine("Hello World!!!");
 
         Console.Write("Hello ");
-        Console.Write("Worlde");
-        Console.Write("!!!!!!");
+        Console.Write("World");
+        Console.Write("!!!");
 
         Console.ReadLine();
     }
