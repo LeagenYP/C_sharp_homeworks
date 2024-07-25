@@ -1,31 +1,44 @@
 ﻿using System.ComponentModel;
 
-class Program()
+class Program
 {
     static void Main() //Игра «Угадай число»
     {
-        Random random = new Random();
-        int secretNumber = random.Next(0, 101);
+        Console.Write("Введите максимальное значение для загаданного числа: ");
+        int maxSecretNumber = Convert.ToInt32(Console.ReadLine());
+        int number = 0;
 
-        Console.WriteLine("Попробуй угадать загаданное число от 0 до 100");
+        Random random = new Random();
+        int secretNumber = random.Next(0, maxSecretNumber);
+
+        Console.WriteLine($"Попробуй угадать загаданное число от 0 до {maxSecretNumber}");
         while (true)
         {
             Console.Write("Введите число: ");
-            int number = int.Parse(Console.ReadLine());
+            string userText = Console.ReadLine() ?? "";
 
-            if (number > secretNumber)
+            if (userText == "")
             {
-                Console.WriteLine($"Число {number} больше загаданного (попробуй меньше)");
-            }
-            else if (number < secretNumber)
-            {
-                Console.WriteLine($"Число {number} меньше загаданного (попробуй больше)");
+                Console.WriteLine($"Игра прервана. Было загадно число {secretNumber}");
+                break;
             }
             else
             {
-                Console.WriteLine($"Ты угадал, было загадано число {secretNumber}");
-                break;
-              
+                number = int.Parse(userText);
+
+                if (number > secretNumber)
+                {
+                    Console.WriteLine($"Число {number} больше загаданного (попробуй меньше)");
+                }
+                else if (number < secretNumber)
+                {
+                    Console.WriteLine($"Число {number} меньше загаданного (попробуй больше)");
+                }
+                else
+                {
+                    Console.WriteLine($"Ты угадал, было загадано число {secretNumber}");
+                    break;
+                }
             }
         }
         Console.ReadKey();

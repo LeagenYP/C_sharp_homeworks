@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-class Program()
+class Program
 {
     static void Main() //Проверка простого числа
     {
