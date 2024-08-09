@@ -1,0 +1,15 @@
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\bin\Debug\net8.0\homework_4.exe
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\bin\Debug\net8.0\homework_4.deps.json
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\bin\Debug\net8.0\homework_4.runtimeconfig.json
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\bin\Debug\net8.0\homework_4.dll
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\bin\Debug\net8.0\homework_4.pdb
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.AssemblyInfoInputs.cache
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.AssemblyInfo.cs
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.sourcelink.json
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.dll
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\refint\homework_4.dll
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.pdb
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\homework_4.genruntimeconfig.cache
+D:\Visual Studio\C_sharp_repo\C_sharp_homeworks\homework_4\homework_4\obj\Debug\net8.0\ref\homework_4.dll

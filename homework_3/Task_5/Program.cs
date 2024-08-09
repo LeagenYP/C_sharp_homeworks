@@ -5,7 +5,7 @@ class Program
     static void Main() //Игра «Угадай число»
     {
         Console.Write("Введите максимальное значение для загаданного числа: ");
-        int maxSecretNumber = Convert.ToInt32(Console.ReadLine());
+        int maxSecretNumber = int.Parse(Console.ReadLine());
         int number = 0;
 
         Random random = new Random();
