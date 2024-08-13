@@ -20,7 +20,7 @@ class task_1
         {
             Console.WriteLine(array[i]);
         }
-        
+
     }
 
 }

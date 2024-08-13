@@ -5,7 +5,7 @@ class task_2
     {
         string inputText = Console.ReadLine() ?? "";
 
-        Reverse(inputText);
+        Console.WriteLine(Reverse(inputText));
         Console.ReadKey();
     }
 
@@ -14,14 +14,17 @@ class task_2
         return text.Split(" ");
     }
 
-    static void Reverse(string text)
+    static string Reverse(string text)
     {
         string[] array = SplitText(text);
+        string resultString = "";
+
         {
             for (int i = array.GetLength(0) - 1; i >= 0; i--)
             {
-                Console.WriteLine(array[i]);
+                resultString += array[i] + " ";
             }
+            return resultString;
         }
     }
 }
